@@ -71,8 +71,8 @@ hide:
 
     <div class="grid cards" markdown>
 
-    - [ICS Security Tools — ITI (GitHub)](https://github.com/ITI/ICS-Security-Tools/tree/master)
-    - [Biero Llagas — Medium](https://medium.com/@biero-llagas)
+    - [![alt text](image-28.png) <br> ICS Security Tools — ITI (GitHub) ](https://github.com/ITI/ICS-Security-Tools/tree/master)
+    - [![alt text](image-29.png) <br> Biero Llagas — Medium](https://medium.com/@biero-llagas)
     - [![alt text](image-24.png)<br> OT/ICS Resource List — Biero El Corridor (GitHub)](https://github.com/biero-el-corridor/OT_ICS_ressource_list)
     - [ Temporal CVSS Scores — Balbix <br> ![alt text](image-21.png)](https://www.balbix.com/insights/temporal-cvss-scores/)
     - [![alt text](image-23.png) <br> SANS ICSPS - ICS410 (May 2025)](SANS-ICSPS-ICS410-0525.pdf)
