@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+  - nav
 ---
 
 # References
