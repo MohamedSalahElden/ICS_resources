@@ -5,6 +5,12 @@ hide:
 
 # References
 
+<div class="grid cards" markdown>
+
+- [![alt text](image-27.png) <br> Slides](ICS_Security2.pdf)
+
+</div>
+
 ???+ note "IEC62443"
 
     <div class="grid cards" markdown>
